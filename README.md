@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Singh</h1>
 <h3 align="center">A passionate Machine Learning student from India</h3>
 
-<img align="right" alt="coding" width="550" src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif">
+<img align="right" alt="coding" width="475" src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsingh51&label=Profile%20views&color=0e75b6&style=flat" alt="omsingh51" /> </p>
 
